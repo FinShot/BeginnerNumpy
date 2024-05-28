@@ -1,0 +1,7 @@
+Mean speed of all the rides
+
+Number of rides taken in February
+
+Number of rides where the tip was more than $50
+
+Number of rides where drop was JFK Airport. 
